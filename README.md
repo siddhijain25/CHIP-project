@@ -16,7 +16,8 @@ The general workflow followed in this analysis is shown below:
 
 ![workflow](plots/graph.jpg)
 
-The details of the analysis and results can be found in this [report](CHIP_report.pdf)
+## Results
+The details of the analysis and results can be found in this [report](CHIP_report.pdf).
 
-## 
+## How to use this repo
 To replicate the results obtained in this analysis, you can perform the following steps:

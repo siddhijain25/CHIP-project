@@ -22,6 +22,8 @@ The details of the analysis and results can be found in this [report](CHIP_repor
 ## How to use this repo
 To replicate the results obtained in this analysis, follow these steps:
 1. Run 0.ipynb 
-> This file creates the CRC_all file shown in the workflow
-2. 
+> This file creates the CRC_all file shown in the workflow and some plots
+2. Run 1.1.ipynb and 1.2.ipynb
+>1.1 = Control
+>1.2 = Control_CRC
 

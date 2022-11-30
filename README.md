@@ -11,12 +11,12 @@ have been performed with and without compositional normalization of data. This w
 to help understand why it is important to consider the compositional nature of microbiome
 data when doing any analysis.
 
-## Workflow
+## Methods
 The general workflow followed in this analysis is shown below:
 
-![alt text](plots/graph.jpg)
+![workflow](plots/graph.jpg)
 
+The details of the analysis and results can be found in this [report](CHIP_report.pdf)
 
-
-
+## 
 To replicate the results obtained in this analysis, you can perform the following steps:

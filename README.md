@@ -20,4 +20,8 @@ The general workflow followed in this analysis is shown below:
 The details of the analysis and results can be found in this [report](CHIP_report.pdf).
 
 ## How to use this repo
-To replicate the results obtained in this analysis, you can perform the following steps:
+To replicate the results obtained in this analysis, follow these steps:
+1. Run 0.ipynb 
+> This file creates the CRC_all file shown in the workflow
+2. 
+

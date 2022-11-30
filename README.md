@@ -23,6 +23,13 @@ The details of the analysis and results can be found in this [report](CHIP_repor
 To replicate the results obtained in this analysis, follow these steps:
 1. Run 0.ipynb 
 > This file creates the CRC_all file shown in the workflow and some plots
+
 2. Run 1.1.ipynb and 1.2.ipynb
->1.1 = Control, 1.2 = Control_CRC
+>1.1 = Control, 1.2 = Control (CRC)
+
+3. Run 2.1.ipynb and 2.2.ipynb
+>2.1 = Feature summation, 2.2 = Feature summation (CRC)
+
+4. Run 3.1.ipynb and 3.2.ipynb
+>3.1 = Symbolic regression, 3.2 = Symbolic regression (CRC)
 
